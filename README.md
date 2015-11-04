@@ -1,4 +1,4 @@
-# To The Max ![Image](https://img.shields.io/badge/Built%20at-dotAstronomy-blue.svg?style=flat?raw=true)
+# To The Max ![](http://github.com/rhobslein/tothemax/blob/master/builtatdotastro.svg)
 
 Simple Python code to wrap around http://koalastothemax.com for custom display of a set of images. 
 
