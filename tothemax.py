@@ -1,5 +1,4 @@
 from astropy.io import ascii
-import requests
 import base64
 import sys
 
